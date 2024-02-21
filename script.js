@@ -5,7 +5,7 @@ $(function() {
   }
   
   let currentDate = Date.now();
-  const endDateString = "2024-02-21T16:43:50";
+  const endDateString = "2024-04-25T23:59:59";
   const endDateTime = Date.parse(endDateString);
   const endDate = new Date(endDateTime);
   
